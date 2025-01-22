@@ -13,7 +13,7 @@ Installation
 1.	Clone the repository:
 bash
 CopyEdit
-git clone https://github.com/Dixit262004 /predictive-analysis.git
+git clone https://github.com/Dixit262004/Predictive-Analysis-for-Manufacturing-Operations.git
 cd predictive-analysis
 2.	Install dependencies:
 bash
